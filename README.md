@@ -1,2 +1,5 @@
-# nunam_energy_wifi_config
+# WiFi Configs for NUCU Board
 WiFi Configs
+
+SSID
+Password
